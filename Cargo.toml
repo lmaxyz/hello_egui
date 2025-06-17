@@ -91,7 +91,7 @@ egui_thumbhash = { path = "./crates/egui_thumbhash", version = "0.7.0" }
 egui_material_icons = { path = "./crates/egui_material_icons", version = "0.3.0" }
 hello_egui = { path = ".", version = "0.8.0" }
 
-egui = { version = "0.31.0", default-features = false }
+egui = { version = "0.31.1", default-features = false }
 egui_kittest = { version = "0.31" }
 eframe = { version = "0.31.0", default-features = false }
 egui_extras = { version = "0.31.0", default-features = false }
